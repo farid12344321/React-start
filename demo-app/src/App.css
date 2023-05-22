@@ -1,0 +1,113 @@
+.name{
+  margin-left: 250px;
+  margin-top: -150px;
+}
+
+.name2{
+  margin-left: 250px;
+}
+
+.header{
+  display: flex;
+}
+
+.contacts{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.number{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.gmail{
+  margin-top: 10px;
+  margin-left: 60px;
+}
+
+.linebody{
+  width: 200px;
+  height: 2px;
+  margin-left: 50px;
+  background-color: black;
+  
+}
+
+
+.education{
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+
+.code{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+
+.time{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.program{
+  margin-left: 250px;
+  margin-top: -70px;
+}
+
+.portfolioheader{
+  margin-top: -200px;
+}
+.portfolio{
+  margin-left: 50px;
+}
+.link{
+  margin-left: 50px;
+}
+
+
+.me{
+  margin-top: 80px;
+}
+
+.line{
+  height: 2px;
+  background-color: black;
+}
+
+.about{
+  margin-top: 20px;
+}
+
+.language{
+  margin-top: 50px;
+}
+
+.azerbaijan{
+  display: flex;
+  margin-top: 20px;
+}
+
+.native{
+  margin-left: 60px;
+}
+
+
+.turkish{
+  display: flex;
+  margin-top: 20px;
+}
+
+.intermediate{
+  margin-left: 85px;
+}
+
+.english{
+  display: flex;
+  margin-top: 20px;
+}
+
+.elementary{
+  margin-left: 85px;
+}
